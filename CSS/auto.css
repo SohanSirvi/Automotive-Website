@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-content {
+    background-image: url(../Images/Background/herobg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.hero btn {
+    border-radius: none;
+}
+
+.content2 {
+    width: 400px;
+}
+
+.carousel-inner {
+    min-height: 150px;
+}
+
+.quote {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+p {
+    margin: 0;
+    padding: 10px 20px;
+}
+
+
+.statistics {
+    background-image: url(../Images/Background/statisticsbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.news {
+    margin-top: 100px;
+}
+
+.footer {
+    background-image: url(../Images/Background/footerbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
